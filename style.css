@@ -1,0 +1,23 @@
+body {
+    color: #4f3311;
+    font-size: 18px;
+    font-family: YuGothic, Yu Gothic;
+}
+
+h1 {
+    color: #fd9700;
+}
+
+
+.wrapper {
+    width: 800px;
+    margin: auto;
+    text-align: center;
+}
+
+.container {
+    width: 600px;
+    margin: auto;
+    padding: 10px;
+    background: #ffe230;
+}
